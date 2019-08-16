@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <color name="colorPrimary">#6ab343</color>
+    <color name="colorPrimary">#6AB343</color>
     <color name="colorPrimaryDark">#388310</color>
     <color name="colorAccent">#D81B60</color>
     <color name="ok_green_color">#6ab343</color>
